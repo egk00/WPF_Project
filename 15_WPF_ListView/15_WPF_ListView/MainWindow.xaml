@@ -5,24 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_15_WPF_ListView"
         mc:Ignorable="d"
-        Title="MainWindow" Height="200" Width="400">
+        Title="MainWindow" Height="300" Width="400">
     <Grid>
-        <ListView Margin="10" Name="MyListView">
-            <GridViewColumn Header="Name" Width="120"/>
-            <GridViewColumn Header="Age" Width="50"/>
-            <GridViewColumn Header="Mail" Width="150"/>
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <Grid>
-                        <TextBlock FontSize="20"
-                                   Text="{Binding Name}"/>
-                        <TextBlock FontSize="20"
-                                   Text="{Binding Age}"/>
-                        <TextBlock FontSize="20"
-                                   Text="{Binding Mail}"/>
-                    </Grid>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
+        <ListView Margin="10" Name="MyListView"/>
     </Grid>
 </Window>

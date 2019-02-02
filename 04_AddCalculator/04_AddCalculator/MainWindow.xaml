@@ -1,0 +1,28 @@
+﻿<Window x:Class="_04_AddCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_04_AddCalculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center"
+                    Margin="10">
+            <TextBox Text="0"
+                     Margin="0, 0, 0, 10"
+                     x:Name="first_textbox"/>
+            <TextBox Text="0"
+                     Margin="0, 0, 0, 10"
+                     x:Name="second_textbox"/>
+            <Button Content="Calculate"
+                    Margin="0, 0, 0, 10"
+                    Background="DodgerBlue"
+                    Foreground="White"
+                    x:Name="add_button"
+                    Click="Add_button_Click"/>
+            <Label Content="Result"
+                   x:Name="result_label"/>
+        </StackPanel>
+    </Grid>
+</Window>

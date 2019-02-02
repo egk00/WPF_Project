@@ -1,0 +1,15 @@
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\bin\Debug\06_Calculator.exe.config
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\bin\Debug\06_Calculator.exe
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\bin\Debug\06_Calculator.pdb
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator.csprojAssemblyReference.cache
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\App.g.cs
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator_MarkupCompile.cache
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator_MarkupCompile.lref
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\MainWindow.baml
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator.g.resources
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\_06_Calculator.Properties.Resources.resources
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator.csproj.GenerateResource.cache
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator.exe
+C:\Users\cksk0\source\repos\06_Calculator\06_Calculator\obj\Debug\06_Calculator.pdb

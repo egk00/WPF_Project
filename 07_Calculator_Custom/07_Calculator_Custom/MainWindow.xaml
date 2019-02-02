@@ -1,0 +1,147 @@
+﻿<Window x:Class="_07_Calculator_Custom.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_07_Calculator_Custom"
+        mc:Ignorable="d"
+        Title="계산기" Height="700" Width="450">
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="0"
+               HorizontalAlignment="Right"
+               VerticalAlignment="Bottom"
+               Grid.ColumnSpan="4"
+               x:Name="result_label"/>
+
+        <Button Grid.Column="0" Grid.Row="1"
+                Foreground="Black"
+                Content="AC"
+                x:Name="ac_button"
+                Click="Ac_button_Click"/>
+
+        <Button Grid.Column="1" Grid.Row="1"
+                Foreground="Black"
+                Content="+ / -"
+                x:Name="nagative_button"/>
+
+        <Button Grid.Column="2" Grid.Row="1"
+                Foreground="Black"
+                Content="%"
+                x:Name="percentage_button"
+                Click="Percentage_button_Click"/>
+
+        <Button Grid.Column="3" Grid.Row="1"
+                Style="{StaticResource operatorButtonStyle}"
+                Content="/"
+                x:Name="division_button"
+                Click="Operation_Button_Click"/>
+
+        <Button Grid.Column="0" Grid.Row="2"
+                Style="{StaticResource numberButtonStyle}"
+                Content="7"
+                x:Name="seven_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="1" Grid.Row="2"
+                Style="{StaticResource numberButtonStyle}"
+                Content="8"
+                x:Name="eight_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="2" Grid.Row="2"
+                Style="{StaticResource numberButtonStyle}"
+                Content="9"
+                x:Name="nine_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="3" Grid.Row="2"
+                Background="{StaticResource operatorsColor}"
+                Content="*"
+                x:Name="multiply_button"
+                Click="Operation_Button_Click"/>
+
+        <Button Grid.Column="0" Grid.Row="3"
+                Style="{StaticResource numberButtonStyle}"
+                Content="4"
+                x:Name="four_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="1" Grid.Row="3"
+                Style="{StaticResource numberButtonStyle}"
+                Content="5"
+                x:Name="five_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="2" Grid.Row="3"
+                Style="{StaticResource numberButtonStyle}"
+                Content="6"
+                x:Name="six_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="3" Grid.Row="3"
+                Background="{StaticResource operatorsColor}"
+                Content="-"
+                x:Name="minus_button"
+                Click="Operation_Button_Click"/>
+
+        <Button Grid.Column="0" Grid.Row="4"
+                Style="{StaticResource numberButtonStyle}"
+                Content="1"
+                x:Name="one_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="1" Grid.Row="4"
+                Style="{StaticResource numberButtonStyle}"
+                Content="2"
+                x:Name="two_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="2" Grid.Row="4"
+                Style="{StaticResource numberButtonStyle}"
+                Content="3"
+                x:Name="three_button"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="3" Grid.Row="4"
+                Background="{StaticResource operatorsColor}"
+                Content="+"
+                x:Name="plus_button"
+                Click="Operation_Button_Click"/>
+
+        <Button Grid.Column="0" Grid.Row="5"
+                Style="{StaticResource numberButtonStyle}"
+                Content="0"
+                x:Name="zero_button"
+                Grid.ColumnSpan="2"
+                Click="Number_Button_Click"/>
+
+        <Button Grid.Column="2" Grid.Row="5"
+                Style="{StaticResource numberButtonStyle}"
+                Content="."
+                x:Name="dot_button"
+                Click="Dot_button_Click"/>
+
+        <Button Grid.Column="3" Grid.Row="5"
+                Background="{StaticResource operatorsColor}"
+                Content="="
+                x:Name="equals_button"
+                Click="Equals_button_Click"/>
+    </Grid>
+</Window>

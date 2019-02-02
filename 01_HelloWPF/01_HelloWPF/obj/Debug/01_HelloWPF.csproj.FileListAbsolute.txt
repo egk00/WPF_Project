@@ -1,0 +1,15 @@
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\bin\Debug\01_HelloWPF.exe.config
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\bin\Debug\01_HelloWPF.exe
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\bin\Debug\01_HelloWPF.pdb
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF.csprojAssemblyReference.cache
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\MainWindow.g.cs
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\App.g.cs
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF_MarkupCompile.cache
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF_MarkupCompile.lref
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\MainWindow.baml
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF.g.resources
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\_01_HelloWPF.Properties.Resources.resources
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF.csproj.GenerateResource.cache
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF.csproj.CoreCompileInputs.cache
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF.exe
+C:\Users\cksk0\Desktop\WPF_Project\01_HelloWPF\01_HelloWPF\obj\Debug\01_HelloWPF.pdb

@@ -1,0 +1,15 @@
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\bin\Debug\05_GridPanel.exe.config
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\bin\Debug\05_GridPanel.exe
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\bin\Debug\05_GridPanel.pdb
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel.csprojAssemblyReference.cache
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\MainWindow.g.cs
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\App.g.cs
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel_MarkupCompile.cache
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel_MarkupCompile.lref
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\MainWindow.baml
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel.g.resources
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\_05_GridPanel.Properties.Resources.resources
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel.csproj.GenerateResource.cache
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel.csproj.CoreCompileInputs.cache
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel.exe
+C:\Users\cksk0\source\repos\05_GridPanel\05_GridPanel\obj\Debug\05_GridPanel.pdb

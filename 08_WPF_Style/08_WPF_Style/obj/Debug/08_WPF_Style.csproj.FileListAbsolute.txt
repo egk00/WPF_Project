@@ -1,0 +1,15 @@
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\bin\Debug\08_WPF_Style.exe.config
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\bin\Debug\08_WPF_Style.exe
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\bin\Debug\08_WPF_Style.pdb
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style.csprojAssemblyReference.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\MainWindow.g.cs
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\App.g.cs
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style_MarkupCompile.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style_MarkupCompile.lref
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\MainWindow.baml
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style.g.resources
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\_08_WPF_Style.Properties.Resources.resources
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style.csproj.GenerateResource.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style.csproj.CoreCompileInputs.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style.exe
+C:\Users\cksk0\Desktop\2018\WPF_Project\08_WPF_Style\08_WPF_Style\obj\Debug\08_WPF_Style.pdb

@@ -1,0 +1,15 @@
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\bin\Debug\03_StackPanel.exe.config
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\bin\Debug\03_StackPanel.exe
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\bin\Debug\03_StackPanel.pdb
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel.csprojAssemblyReference.cache
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\MainWindow.g.cs
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\App.g.cs
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel_MarkupCompile.cache
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel_MarkupCompile.lref
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\MainWindow.baml
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel.g.resources
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\_03_StackPanel.Properties.Resources.resources
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel.csproj.GenerateResource.cache
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel.csproj.CoreCompileInputs.cache
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel.exe
+C:\Users\cksk0\Desktop\WPF_Project\03_StackPanel\03_StackPanel\obj\Debug\03_StackPanel.pdb

@@ -1,0 +1,16 @@
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\bin\Debug\14_BaseLogic.exe.config
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\bin\Debug\14_BaseLogic.exe
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\bin\Debug\14_BaseLogic.pdb
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic.csprojAssemblyReference.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\MainWindow.g.cs
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\App.g.cs
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic_MarkupCompile.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic_MarkupCompile.lref
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\MainWindow.baml
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic.g.resources
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\_14_BaseLogic.Properties.Resources.resources
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic.csproj.GenerateResource.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic.csproj.CoreCompileInputs.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic.exe
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\14_BaseLogic.pdb
+C:\Users\cksk0\Desktop\2018\WPF_Project\14_BaseLogic\14_BaseLogic\obj\Debug\GeneratedInternalTypeHelper.g.cs

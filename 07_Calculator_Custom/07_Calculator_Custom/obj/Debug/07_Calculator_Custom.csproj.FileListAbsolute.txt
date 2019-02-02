@@ -1,0 +1,16 @@
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\bin\Debug\07_Calculator_Custom.exe.config
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\bin\Debug\07_Calculator_Custom.exe
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\bin\Debug\07_Calculator_Custom.pdb
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom.csprojAssemblyReference.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\MainWindow.g.cs
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\App.g.cs
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom_MarkupCompile.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom_MarkupCompile.lref
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\MainWindow.baml
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom.g.resources
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\_07_Calculator_Custom.Properties.Resources.resources
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom.csproj.GenerateResource.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom.csproj.CoreCompileInputs.cache
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom.exe
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\07_Calculator_Custom.pdb
+C:\Users\cksk0\Desktop\2018\WPF_Project\07_Calculator_Custom\07_Calculator_Custom\obj\Debug\App.baml

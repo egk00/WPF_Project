@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF_Custom_User_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Custom_User_Control"
+        xmlns:uc="clr-namespace:WPF_Custom_User_Control.Control"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <ListView x:Name="MyList"
+                      Height="300">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <uc:UserControl/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Window>

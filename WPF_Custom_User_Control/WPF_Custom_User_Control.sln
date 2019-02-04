@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Custom_User_Control", "WPF_Custom_User_Control\WPF_Custom_User_Control.csproj", "{FE83A9B5-35C0-438D-8612-EEEC4D84F22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE83A9B5-35C0-438D-8612-EEEC4D84F22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE83A9B5-35C0-438D-8612-EEEC4D84F22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE83A9B5-35C0-438D-8612-EEEC4D84F22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE83A9B5-35C0-438D-8612-EEEC4D84F22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91701A74-48C9-46BD-80E0-A0E1DC41D952}
+	EndGlobalSection
+EndGlobal

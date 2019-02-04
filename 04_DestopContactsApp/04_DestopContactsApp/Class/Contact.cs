@@ -11,8 +11,14 @@ namespace _04_DestopContactsApp.Class
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
+
+        [MaxLength(50)]
         public string Name { get; set; }
+
+        [MaxLength(50)]
         public string Email { get; set; }
+
+        [MaxLength(50)]
         public string Phone { get; set; }
 
         public override string ToString()
